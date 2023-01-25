@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=minseop's%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=minseop's%20github&fontColor=ffffff&fontSize=45&rotate=13&fontAlignY=39&fontAlign=70)
 # _Hello! This is MinSeop.👋_<br>_I’m looking for a job._ 😊<br>
 <br>
   
 학원 수료를 마치고 두 번의 프로젝트 끝마친 코린이입니다.<br>제 프로젝트에 관심이 있으시다면 아래의 링크를 확인해주세요.<br>
-[🔗semi-project](https://github.com/hye-github/KH-semi-project)<br>
-[🔗final-project](https://github.com/hye-github/Project-deli "ver1.0.0 develop 중")<br>
+[🔗semi-project](https://github.com/MinS2op/Fitneeds)<br>
+[🔗final-project](https://github.com/MinS2op/Deli "ver1.0.0 develop 중")<br>
 
 <br>
 <br>
